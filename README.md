@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -21,9 +22,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
