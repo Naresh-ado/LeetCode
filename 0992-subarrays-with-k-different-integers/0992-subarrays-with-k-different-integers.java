@@ -29,6 +29,11 @@ class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) 
     {
         int atmostKdis = atMost(nums,k);
+        //Now at this step i will have an valid subarray with atmmost k distiict elements[1 2 1 2] Eg : k = 2
+        //now from this i need to find subsub  arrays that at exactly k distinct elements [1 2] [2 1] [1 2 1] ... 
+        //so we can now find the count of invalid subsub array from the valid subarray [1] [2] Invalid for k = 2
+        //so subtracting total number of subarrays can be formed from valid subarray  - number of Invalid subarray gives exactly k distict subarrays count
+        //for finding the invalid ones we can use the same logic but if we add k-1 in the while loop it will find the invalid less than k subarrays count
         int atmostKInvalid = atMost(nums,k-1);
         return atmostKdis - atmostKInvalid;
     }
