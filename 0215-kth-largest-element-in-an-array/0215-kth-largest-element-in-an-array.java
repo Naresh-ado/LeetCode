@@ -6,7 +6,7 @@ class Solution {
         PriorityQueue<Integer> min = new PriorityQueue<>();
         for(int x : nums)
         {
-            min.add(x);
+            min.offer(x);
             if(min.size() > k)
             {
                 min.poll();
