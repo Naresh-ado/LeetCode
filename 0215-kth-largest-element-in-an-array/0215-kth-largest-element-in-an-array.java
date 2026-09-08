@@ -14,9 +14,6 @@ class Solution {
 
         }
         return min.peek();
-        /* 31ms we cna use a max heap for this 
-        Arrays.sort(nums);
-        return nums[nums.length - k];
-         */
+        
     }
 }
