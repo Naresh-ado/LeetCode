@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naresh-ado/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Naresh-ado/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naresh-ado/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Naresh-ado/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naresh-ado/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/Naresh-ado/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naresh-ado/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
