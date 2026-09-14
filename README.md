@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naresh-ado/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naresh-ado/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
