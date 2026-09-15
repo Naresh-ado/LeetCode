@@ -1,8 +1,28 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) 
     {
-        //Optimized way Signature based
+        //Even more optimized
+        HashMap<String,List<String>> map = new HashMap<>();
+        for(String s : strs)
+        {
+            char[] ch = s.toCharArray();
+            Arrays.sort(ch);
+            String str = new String(ch);
+            if(!map.containsKey(str))
+            {
+                map.put(str,new ArrayList<>());
+            }
+            map.get(str).add(s);
+        }
+        return new ArrayList<>(map.values());
+
+
+
+
+
         
+        //Optimized way Signature based
+        /* 13 ms
         HashMap<String, List<String>> map = new HashMap<>();
 
         for(String s : strs)
@@ -30,6 +50,7 @@ class Solution {
         }
 
         return new ArrayList<>(map.values());
+        */
         /* 
         This is O(n^2 * k) Brute force
         List<List<String>> list = new ArrayList<>();
