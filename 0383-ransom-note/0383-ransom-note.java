@@ -3,6 +3,7 @@ class Solution {
     {
 
         //USING ONLY 1 ARRAY
+        if (ransomNote.length() > magazine.length()) return false;
         int[] freq = new int[26];
         for(char ch : magazine.toCharArray())
         {
