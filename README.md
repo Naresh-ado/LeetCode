@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/Naresh-ado/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naresh-ado/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Naresh-ado/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Naresh-ado/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
