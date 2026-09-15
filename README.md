@@ -19,6 +19,7 @@
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naresh-ado/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naresh-ado/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Naresh-ado/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naresh-ado/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
@@ -69,6 +71,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naresh-ado/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Union-Find
 |  |
