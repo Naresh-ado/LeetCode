@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Naresh-ado/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Naresh-ado/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Naresh-ado/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Naresh-ado/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naresh-ado/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -90,4 +91,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Naresh-ado/LeetCode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Naresh-ado/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Naresh-ado/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
