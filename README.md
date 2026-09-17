@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naresh-ado/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Naresh-ado/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Naresh-ado/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naresh-ado/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Naresh-ado/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -102,4 +103,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Naresh-ado/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Naresh-ado/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naresh-ado/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naresh-ado/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
