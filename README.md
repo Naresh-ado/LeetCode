@@ -24,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/Naresh-ado/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Naresh-ado/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naresh-ado/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Naresh-ado/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Naresh-ado/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
