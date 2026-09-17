@@ -2,7 +2,7 @@ class Solution {
     public String countAndSay(int n) 
     {
         String str = "1";
-        if(n == 1)return str;
+        //if(n == 1)return str;
         for(int i=1;i<n;i++) // < n because already one term str = "1"
         {
             StringBuilder sb = new StringBuilder();
