@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/Naresh-ado/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Naresh-ado/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/Naresh-ado/LeetCode/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0169-majority-element](https://github.com/Naresh-ado/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Naresh-ado/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/Naresh-ado/LeetCode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naresh-ado/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
@@ -73,10 +75,12 @@
 | [0049-group-anagrams](https://github.com/Naresh-ado/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Naresh-ado/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naresh-ado/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0767-reorganize-string](https://github.com/Naresh-ado/LeetCode/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naresh-ado/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0767-reorganize-string](https://github.com/Naresh-ado/LeetCode/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -86,6 +90,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Naresh-ado/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Naresh-ado/LeetCode/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/Naresh-ado/LeetCode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naresh-ado/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Union-Find
 |  |
@@ -121,4 +126,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Naresh-ado/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Naresh-ado/LeetCode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
